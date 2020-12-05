@@ -1,0 +1,14 @@
+C:\Users\hermansp\Documents\EDU\BYU_Pathway\BYUI\2020Fall\CIT365\12\Notes\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+C:\Users\hermansp\Documents\EDU\BYU_Pathway\BYUI\2020Fall\CIT365\12\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Users\hermansp\Documents\EDU\BYU_Pathway\BYUI\2020Fall\CIT365\12\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Users\hermansp\Documents\EDU\BYU_Pathway\BYUI\2020Fall\CIT365\12\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\hermansp\Documents\EDU\BYU_Pathway\BYUI\2020Fall\CIT365\12\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Users\hermansp\Documents\EDU\BYU_Pathway\BYUI\2020Fall\CIT365\12\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hermansp\Documents\EDU\BYU_Pathway\BYUI\2020Fall\CIT365\12\Notes\Notes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hermansp\Documents\EDU\BYU_Pathway\BYUI\2020Fall\CIT365\12\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Users\hermansp\Documents\EDU\BYU_Pathway\BYUI\2020Fall\CIT365\12\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Users\hermansp\Documents\EDU\BYU_Pathway\BYUI\2020Fall\CIT365\12\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\Users\hermansp\Documents\EDU\BYU_Pathway\BYUI\2020Fall\CIT365\12\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hermansp\Documents\EDU\BYU_Pathway\BYUI\2020Fall\CIT365\12\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Users\hermansp\Documents\EDU\BYU_Pathway\BYUI\2020Fall\CIT365\12\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\hermansp\Documents\EDU\BYU_Pathway\BYUI\2020Fall\CIT365\12\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
